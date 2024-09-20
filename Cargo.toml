@@ -3,8 +3,11 @@ name = "ethercat"
 version = "0.1.0"
 edition = "2021"
 description = """
-A command line utility to control an Ethercat device
+A command line utility to control Ethercat devices
 """
+repository = "https://github.com/hANSIc99/ethercat"
+license = "MIT"
+authors = ["Stephan Avenwedde <s.avenwedde@gmail.com>"]
 categories = ["asynchronous", "network-programming", "science", "command-line-utilities"]
 keywords = ["Ethercat", "Beckhoff", "ADS", "automation", "PLC"]
 
